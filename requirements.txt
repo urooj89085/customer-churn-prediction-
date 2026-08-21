@@ -1,8 +1,8 @@
-streamlit==1.54.0
-pandas==2.2.3
-numpy==1.26.4
-scikit-learn==1.6.1
-imbalanced-learn==0.13.0
-joblib==1.4.2
-shap==0.46.0
-matplotlib==3.9.4
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.26
+scikit-learn==1.8.0
+imbalanced-learn>=0.12
+shap>=0.44
+matplotlib>=3.8
+joblib>=1.3
